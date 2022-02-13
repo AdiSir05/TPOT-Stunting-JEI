@@ -2,12 +2,13 @@
 This repository contains all the scripts used during the research process.
 
 # Structure
-Files are divided into two folders: Kenya and Bangladesh.
+Files are divided into three folders: Kenya, Bangladesh, and Correlation Heatmaps.
 
-Each folder contains the following information:
+The Kenya and folder contains the following information:
 1. Clinical trial dataset files as .csv
-2. Feature extraction & processing jupyter file
-3. TPOT script jupyter file
-4. Soft voting ensemble, SHAP, and performance metric jupyter file
+2. Feature extraction & processing jupyter files
+3. TPOT script jupyter files
+4. Soft voting ensemble, SHAP, and performance metric jupyter files
 5. Additional genetated files/folders
 
+The Correlation Heatmaps folder contains the data (as .csv) and the jupyter file used to generate the graphics
